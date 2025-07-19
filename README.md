@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://github.com/henry-inxide/Convo-Server.git">HENRY-DWN<img title="Author" src="https://img.shields.io/badge/wasi-bot-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/henry-inxide/Convo-Server.git"><img title="Author" src="https://img.shields.io/badge/Convo-Server-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
