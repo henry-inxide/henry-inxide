@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-<a href="https://page-server-three.vercel.app/"><img title="App Offline Server" src="https://img.shields.io/github/followers/itxwasi?label=Followers&style=social"></a>
+<a href="https://page-server-three.vercel.app/"><img title="App Offline Server" src="https://img.shields.io/github/followers/itxwasi?label=HENRY-X-APP&style=social"></a>
 </p>
  
 <h1 align="center">❤️ 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗟𝗘'𝗫 𝗛𝗘𝗡𝗥𝗬 ❤️</h1>
