@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 @@ -1,103 +1,8 @@
  <p align="center">  
   <a href="">
-    <img alt="HENRY" width="600" height="350" src="https://i.imgur.com/ujxeU8g.jpeg">
+    <img alt="HENRY" width="600" height="350" src="https://i.imgur.com/UChN96K.jpeg">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p/>
 
 <p align="center">
-<a href="https://github.com/itxwasi/wasi-bot"><img title="App Offline Server" src="https://img.shields.io/github/followers/itxwasi?label=Followers&style=social"></a>
+<a href="https://page-server-three.vercel.app/"><img title="App Offline Server" src="https://img.shields.io/github/followers/itxwasi?label=Followers&style=social"></a>
 </p>
  
 <h1 align="center">❤️ 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗟𝗘'𝗫 𝗛𝗘𝗡𝗥𝗬 ❤️</h1>
