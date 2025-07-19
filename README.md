@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://github.com/itxwasi/wasi-bot"><img title="Author" src="https://img.shields.io/badge/wasi-bot-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/henry-inxide/Convo-Server.git">HENRY-DWN<img title="Author" src="https://img.shields.io/badge/wasi-bot-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/itxwasi/wasi-bot"><img title="Followers" src="https://img.shields.io/github/followers/itxwasi?label=Followers&style=social"></a>
+<a href="https://github.com/itxwasi/wasi-bot"><img title="App Offline Server" src="https://img.shields.io/github/followers/itxwasi?label=Followers&style=social"></a>
 </p>
  
 <h1 align="center">❤️ 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗟𝗘'𝗫 𝗛𝗘𝗡𝗥𝗬 ❤️</h1>
